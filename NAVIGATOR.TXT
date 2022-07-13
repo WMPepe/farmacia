@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+
+<head>
+    <title>Farmacia Bartolome Álvarez</title>
+    <meta charset="UFT-8">
+    
+    
+    <link rel="stylesheet" href="css/main.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Source+Sans+Pro:wght@600&display=swap" rel="stylesheet">
+
+    <link rel="icon" type="image/png" href="image/pharmacy.png" sizes="16x16">
+
+</head>
+
+<body>
+    <header>
+        <h1>Farmacia Bartolomé Álvarez</h1>
+        
+    </header>
+
+    <nav>
+        <ul>
+        <li><a href="index.html">Inicio</a></li>
+        <li><a href="whoweare.html">Plantilla</a></li>
+        <li><a href="horario.html">Horario</a></li>
+        <li><a href="contact.html">Contacto</a></li>
+
+        </ul>
+    </nav>

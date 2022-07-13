@@ -1,0 +1,85 @@
+
+.place{
+    background: #05386B;
+    
+    height: 600px;
+    width: 1500px;
+    position: relative;
+    left: 200px;
+    
+    border-radius: 40px;
+    color: #EDF5E1    ;
+    
+}
+.place h2{
+    font-size: 50px;
+    text-align: center;
+    padding-top: 15px;
+    margin-bottom: 02%;
+    position: relative;
+}
+iframe{
+    width: 50%;
+    margin-left: 25px;
+    border-radius: 10px;
+    
+    
+}
+.pplace{
+    float: right;
+    margin: 20px;
+    width: 30%;
+    position: relative;left: -10%;
+    font-size: 35px;
+
+}
+
+.hora{background: #05386B;
+    
+    height: 400px;
+    width: 1000px;
+     
+    position: relative;
+    left:  400PX;
+    margin: 60px;
+    
+    border-radius: 40px;
+    color: #EDF5E1    ;
+
+    font-size: 35px;}
+
+.hora h2{
+    font-size: 50px;
+    text-align: center;
+   
+    
+    
+}
+.hora p{
+padding-left: 30px;
+
+}
+.hora p a:link{
+    color: red;
+}
+.hora p a:visited{
+    color: red;
+}
+
+
+.pharmaimg{
+    height: 200px;
+    width: 200px;
+    float: right;
+    position: relative;
+    right: 200px;
+    top: -235px;
+}
+
+.pastillas{
+    position: absolute;
+    top: 300px;
+    left: -10px;
+    height: 1000px;
+    pointer-events: none;
+}
